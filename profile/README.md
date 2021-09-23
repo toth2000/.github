@@ -179,7 +179,7 @@ src="..\assets\social-icons\twitter.svg"></a>
 src="..\assets\social-icons\github.svg"></a>
 &nbsp;
 <a href="https://www.linkedin.com/company/layer5"><img alt="linkedIn_logo" 
-src="..\assets\social-icons\linkedin.svg"></a>
+src="..\assets\social-icons\linkedIn.svg"></a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCFL1af7_wdnhHXL1InzaMvA"><img alt="youtube_logo" 
 src="..\assets\social-icons\youtube.svg"></a>
